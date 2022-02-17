@@ -1,0 +1,60 @@
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.deps.json
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.runtimeconfig.json
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.runtimeconfig.dev.json
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.dll
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\ref\EbayAdminRepository.dll
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.pdb
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminDbContext.dll
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminModels.dll
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminDbContext.pdb
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminModels.pdb
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.AssemblyReference.cache
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.AssemblyInfoInputs.cache
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.AssemblyInfo.cs
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.CoreCompileInputs.cache
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.CopyComplete
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.dll
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\ref\EbayAdminRepository.dll
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.pdb
+D:\work\lastversion\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.genruntimeconfig.cache
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.deps.json
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.runtimeconfig.json
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.runtimeconfig.dev.json
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.dll
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\ref\EbayAdminRepository.dll
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.pdb
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminDbContext.dll
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminModels.dll
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminDbContext.pdb
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminModels.pdb
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.AssemblyReference.cache
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.AssemblyInfoInputs.cache
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.AssemblyInfo.cs
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.CoreCompileInputs.cache
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.CopyComplete
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.dll
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\ref\EbayAdminRepository.dll
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.pdb
+D:\.net\1-learn\3- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.genruntimeconfig.cache
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.deps.json
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.runtimeconfig.json
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.runtimeconfig.dev.json
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.dll
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\ref\EbayAdminRepository.dll
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminRepository.pdb
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminDbContext.dll
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminModels.dll
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminDbContext.pdb
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\bin\Debug\net5.0\EbayAdminModels.pdb
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.AssemblyReference.cache
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.AssemblyInfoInputs.cache
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.AssemblyInfo.cs
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.CoreCompileInputs.cache
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.csproj.CopyComplete
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.dll
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\ref\EbayAdminRepository.dll
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.pdb
+D:\.net\1-learn\4- Projects\1-iti e_commerce project\EbayAdminSideWebSite\EbayAdminRepository\obj\Debug\net5.0\EbayAdminRepository.genruntimeconfig.cache
