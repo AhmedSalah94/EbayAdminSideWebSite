@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmJq1ATBaGXCUDSQno5oVEKsz0Swd1+RGG2CO+5QwSNmq1dGUL+JnXZ52tq+1Vx1jzcOMr9/dr93fGIFY7k0qw==",
+  "dgSpecHash": "goUhG4CVHjSBl3Icrid/tMf2DakSm9r+OPBWX9QXgD73BmtxVZlIs68dmrKN78rMIW8DdswUBYhUdagt2udMHA==",
   "success": true,
-  "projectFilePath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayView\\EbayView.csproj",
+  "projectFilePath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayView\\EbayView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lapcom Store\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Lapcom Store\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

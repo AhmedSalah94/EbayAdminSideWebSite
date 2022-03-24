@@ -119,7 +119,7 @@ namespace EbayView
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "Admin/{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
                 // Products   Home  Categories Accounts  Login   Index
             });
         }

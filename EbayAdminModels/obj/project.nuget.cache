@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "di14g7Kk/T4BM12ZDaqUBMdWZU/cokX8J3iOyIJyK9jYOqiOR5v3nr1Z2ABsv1W9DBsFjZC527J8lGDOnBo2ew==",
+  "dgSpecHash": "jgoo7vQcIYhfL9knm8tg1js9NBlagMEcHucX8+JSUJm9kq8GN/TOIO2eXVB4+OhKM+xvwI6kUypa973XLBOQhQ==",
   "success": true,
-  "projectFilePath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj",
+  "projectFilePath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lapcom Store\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lapcom Store\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

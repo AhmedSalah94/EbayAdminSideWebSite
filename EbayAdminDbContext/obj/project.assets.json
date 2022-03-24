@@ -6218,11 +6218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminDbContext\\EbayAdminDbContext.csproj",
+      "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminDbContext\\EbayAdminDbContext.csproj",
       "projectName": "EbayAdminDbContext",
-      "projectPath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminDbContext\\EbayAdminDbContext.csproj",
+      "projectPath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminDbContext\\EbayAdminDbContext.csproj",
       "packagesPath": "C:\\Users\\Lapcom Store\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminDbContext\\obj\\",
+      "outputPath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminDbContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lapcom Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6239,8 +6239,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj": {
-              "projectPath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj"
+            "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj": {
+              "projectPath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj"
             }
           }
         }
@@ -6307,7 +6307,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

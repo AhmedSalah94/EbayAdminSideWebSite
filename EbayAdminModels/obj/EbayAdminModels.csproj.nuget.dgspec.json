@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj": {}
+    "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj": {}
   },
   "projects": {
-    "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj": {
+    "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj",
+        "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj",
         "projectName": "EbayAdminModels",
-        "projectPath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\EbayAdminModels.csproj",
+        "projectPath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\EbayAdminModels.csproj",
         "packagesPath": "C:\\Users\\Lapcom Store\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\1-learn\\4- Projects\\1-iti e_commerce project\\EbayAdminSideWebSite\\EbayAdminModels\\obj\\",
+        "outputPath": "D:\\.net\\1-learn\\4- Projects\\3-iti e_commerce project .net5(mvc core) vs19\\EbayAdminSideWebSite\\EbayAdminSideWebSite my github\\EbayAdminModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lapcom Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
