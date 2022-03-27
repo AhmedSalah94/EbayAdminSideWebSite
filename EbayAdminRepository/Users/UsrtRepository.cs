@@ -45,7 +45,7 @@
             await _context.SaveChangesAsync();
             return User.Id;
         }
-        ///    aly add password hash and this nevor login  
+      
         public async Task<User> GetUserAsync(string userName, string password)
         {
             return await _context.Users // here PasswordHash

@@ -29,7 +29,7 @@
         //[ValidateAntiForgeryToken]
         [HttpPost,ActionName("Loginuser")] 
         public async Task<IActionResult> Loginuser(PostLoginModel model)
-        {  // this all are error fix it 
+        {  
             ///findadminlogin
             var admin = await _adminRepository.findadminlogin(model.UserName, model.Password);
             if(admin !=null)

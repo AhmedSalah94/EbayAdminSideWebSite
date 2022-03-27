@@ -53,7 +53,7 @@
         [HttpGet]
         public async Task<ActionResult> Edit(int id)
         {
-            // add by aly
+       
             var Stock = await _StockRepository.GetStockDetailsAsync(id);
             var result = _mapper.Map<GetStockDetailsOutputModel>(Stock);
             ViewBag.selectedStock = result;
@@ -77,11 +77,8 @@
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
-            //var Stock = await _StockRepository.GetStockDetailsAsync(id);
-            //var result = _mapper.Map<GetStockDetailsOutputModel>(Stock);
-            // return View(result);
 
-            // add by aly
+
             var stock = await _StockRepository.GetStockDetailsAsync(id);
             await _StockRepository.DeleteStockAsync(stock);
             return RedirectToAction(nameof(Index));

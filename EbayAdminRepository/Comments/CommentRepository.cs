@@ -30,8 +30,7 @@
 
         public async Task<Comment> GetCommentDetailsAsync(int UserId,int ProdId)
         {
-            //return await _context.Comments.Where(c => c.UserId == value).FirstOrDefaultAsync();
-            // by aly
+
             return await _context.Comments.Where(c =>c.UserId==UserId && c.ProductId==ProdId).FirstOrDefaultAsync();
         }
         public async Task<int> UpdateCommentAsync(Comment Comment)
@@ -41,7 +40,7 @@
             return Comment.UserId;
         }
 
-        // add by aly 
+   
         public async Task<List<Comment>> GetAllCommentAsync()
         {
             return await _context.Comments

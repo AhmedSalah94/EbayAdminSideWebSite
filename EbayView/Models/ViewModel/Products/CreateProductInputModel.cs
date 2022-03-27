@@ -9,7 +9,7 @@
     using EbayView.Models.ViewModel.Category;
     using EbayView.Models.ViewModel.Stocks;
     using EbayView.Models.ViewModel.SubCategory;
-    using global::Models;// add by aly
+    using global::Models;
 
     public class CreateProductInputModel   // for edite and create
     {    
@@ -35,11 +35,7 @@
         public int SubCatId { get; set; }
         public string[] imgspathes { get; set; }
          
-        //   added by aly   get names from db to select 
-        //public List<GetCategoriesOutputModel> AvailableCategories { get; set; }
-        //public List<GetSubCategoriesOutputModel> AvailableSubCategories { get; set; }
-        //public List<GetBrandsOutputModel> AvailableBrands { get; set; }
-        //public List<GetStocksOutputModel> AvailableStock { get; set; }
+
          
     }
 }

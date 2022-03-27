@@ -19,7 +19,7 @@ namespace EbayView.Models.ViewModel.Offers
         [BindProperty, DisplayFormat(DataFormatString = "{0:yyyy-MM-ddTHH:mm}", ApplyFormatInEditMode = true)]
         public DateTime EndDate { get; set; }
 
-        // add by aly 
+     
         public float OldPrice { get; set; }
         public string ProductName { get; set; }
         public string AdminName { get; set; }

@@ -39,14 +39,12 @@
             var result = _mapper.Map<List<GetCommentOutputModel>>(Comments);
             return View(result);
         }
-        //[HttpPost]
-        //Delete?UserId=4&ProdId=1013
+
         [HttpGet]
         public async Task<IActionResult> Delete(int UserId, int ProdId)
         {
             var Comments = await _CommentRepository.GetCommentDetailsAsync(UserId,ProdId);
-            //return View(Comments);
-            // add by aly
+
             await _CommentRepository.DeleteCommentAsync(Comments); 
             return RedirectToAction(nameof(Index));
         }

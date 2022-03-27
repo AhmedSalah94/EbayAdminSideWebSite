@@ -40,7 +40,7 @@
         [HttpGet]
         public async Task<ActionResult> Create()
         {
-            // add by aly
+      
             var categories = await _categoryRepository.GetCategoriesAsync();
             var AllcategoriesResult = _mapper.Map<List<GetCategoriesOutputModel>>(categories);
             ViewBag.AvailableCategories = AllcategoriesResult; 
@@ -64,14 +64,14 @@
         }
         public async Task<ActionResult> Edit(int id)
         {
-            // add by aly
+      
             var categories = await _categoryRepository.GetCategoriesAsync();
             var AllcategoriesResult = _mapper.Map<List<GetCategoriesOutputModel>>(categories);
             ViewBag.AvailableCategories = AllcategoriesResult;
 
             var Subcategory = await _SubcategoryRepository.GetSubCategoryDetailsAsync(id);
             var result = _mapper.Map<GetSubCategoryDetailsOutputModel>(Subcategory);
-            ViewBag.selectedSubcategory = result;   // aly 
+            ViewBag.selectedSubcategory = result;   
             return View();
         }
 
@@ -93,17 +93,13 @@
         [HttpGet]
         public async Task<ActionResult> Delete(int id)
         {
-            //var Subcategory = await _SubcategoryRepository.GetSubCategoryDetailsAsync(id);
-            //var result = _mapper.Map<GetSubCategoryDetailsOutputModel>(Subcategory);
-            //return View(result);
 
-            //add by aly 
             var Subcategory = await _SubcategoryRepository.GetSubCategoryDetailsAsync(id);
             await _SubcategoryRepository.DeleteSubCategoryAsync(Subcategory);
             return RedirectToAction(nameof(Index));
         }
 
-        [HttpPost, ActionName("Delete")] // add by aly
+        [HttpPost, ActionName("Delete")] 
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteSubCategory(int id)
         {

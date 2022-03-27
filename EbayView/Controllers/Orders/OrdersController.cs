@@ -31,52 +31,6 @@
             var result = _mapper.Map<GetOrderDetailsOutputModel>(Order);
             return View(result);
         }
-        //[HttpGet]
-        //public ActionResult Create()
-        //{
-        //    return View();
-        //}
-
  
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> Create( CreateOrderInputModel model)
-        //{
-        //    try
-        //    {
-        //        var Order = _mapper.Map<Order>(model);
-        //        await _OrderRepository.AddOrderAsync(Order);
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
-
-
-        //[HttpGet]
-        //public async Task<IActionResult> Delete(int id)
-        //{
-        //    var Order = await _OrderRepository.GetOrderDetailsAsync(id);
-        //    var result = _mapper.Map<GetOrderDetailsOutputModel>(Order);
-        //    return View(result);
-        //}
-
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> PostDelete(int id)
-        //{
-        //    try
-        //    {
-        //        var stock = await _OrderRepository.GetOrderDetailsAsync(id);
-        //        await _OrderRepository.DeleteOrderAsync(stock);
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
     }
 }

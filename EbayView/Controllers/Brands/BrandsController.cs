@@ -51,8 +51,6 @@
         {
             Brands brand = await _BrandRepository.GetBrandDetailsAsync(id);
             var result = _mapper.Map<GetBrandDetailsOutputModel>(brand);
-            //return View(result);
-            // add by aly 
             ViewBag.oldbrand = result;
             return View();
         }
@@ -67,29 +65,12 @@
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
-            //Brands brand = await _BrandRepository.GetBrandDetailsAsync(id);
-            //var result = _mapper.Map<GetBrandDetailsOutputModel>(brand); 
-            //return View(result);
+
             var brand = await _BrandRepository.GetBrandDetailsAsync(id);
             await _BrandRepository.DeleteBrandAsync(brand);
             return RedirectToAction(nameof(Index));
         }
 
-        //[HttpPost]// ahmed
-        //[HttpPost, ActionName("Delete")]// aly
-        //[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> PostDelete(int id)
-        //{
-        //    try
-        //    {
-        //        var brand = await _BrandRepository.GetBrandDetailsAsync(id);
-        //        await _BrandRepository.DeleteBrandAsync(brand);
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
+
     }
 }

@@ -78,7 +78,7 @@
             //var result = _mapper.Map<GetShipperDetailsOutputModel>(Shipper);
             //return View(result);
 
-            // add by aly 
+ 
             var stock = await _ShipperRepository.GetShipperDetailsAsync(id);
             await _ShipperRepository.DeleteShipperAsync(stock);
             return RedirectToAction(nameof(Index));

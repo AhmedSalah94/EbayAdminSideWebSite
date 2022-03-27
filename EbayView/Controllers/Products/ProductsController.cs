@@ -105,7 +105,7 @@
         [HttpGet]// error
         public async Task<ActionResult> Create()
         {
-            // made by aly
+         
             //var Admins = await _categoryRepository.GetCategoriesAsync();
             //var AllAdminsResult = _mapper.Map<List<GetCategoriesOutputModel>>(Admins);
             //ViewBag.AvailableAdmins = AllAdminsResult;
@@ -214,8 +214,7 @@
             }
             var result = _mapper.Map<GetProductDetailsOutputModel>(product);
 
-            //return View("producat is deleted");
-            // add by aly
+
             return View(result);
         }
 

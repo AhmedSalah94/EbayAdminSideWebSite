@@ -32,11 +32,7 @@
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
-            //var User = await _UserRepository.GetUserDetailsAsync(id);
-            //var result = _mapper.Map<GetUsserDetailsOutputModel>(User);
-            //return View(result);
 
-            // add by aly
             try
             {
                 var User = await _UserRepository.GetUserDetailsAsync(id);
